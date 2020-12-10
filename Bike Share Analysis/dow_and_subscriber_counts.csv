@@ -1,0 +1,15 @@
+start_dayofweek,start_dayofweek_str,subscriber_type,trips_by_day_of_week
+1,Sunday,Customer,25908
+1,Sunday,Subscriber,25467
+2,Monday,Customer,15142
+2,Monday,Subscriber,154795
+3,Tuesday,Customer,14737
+3,Tuesday,Subscriber,169668
+4,Wednesday,Customer,15237
+4,Wednesday,Subscriber,165530
+5,Thursday,Customer,16612
+5,Thursday,Subscriber,160296
+6,Friday,Customer,19929
+6,Friday,Subscriber,140048
+7,Saturday,Customer,29244
+7,Saturday,Subscriber,31035
