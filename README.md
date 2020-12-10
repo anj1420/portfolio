@@ -1,2 +1,3 @@
-# portfolio
-Data Science Portfolio
+# Author: Anjali Unnithan
+
+## Data Science Portfolio
